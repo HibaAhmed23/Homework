@@ -11,21 +11,21 @@ This is a paragraph
 
 **this will be bold** ~~this will be strike through~~ <ins>this will be underlined</ins>
 
-# Lists 
+## Lists 
 
-## Unordered 
+# Unordered 
 - item one
 - item two
   - item a
   - item b
  
-## Ordered 
+# Ordered 
 1. Item 1
 2. Item 2
 3. Item 3
 4. Item 3a
 
-# Table 
+## Table 
 
 | **Command** | **Description** |
 |git add | Stage changes for commit |
